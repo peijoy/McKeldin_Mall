@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 8f8fddd9080f347d5b5584c0d607dbb9
+timeCreated: 1460166581
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000060000000700000008000000090000000a0000000b000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 770d365770773c04409154ef588a0376
+  longitude: -76.945024
+  latitude: 38.985973
+  northCorrection: 358.7758194344155
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 122.408005, y: 51.436424, z: 1.0616137}
+      lookAt: {x: -3.6074069, y: -1.4612119, z: -1.5054697}
+      up: {x: -0.38690463, y: 0.9220861, z: -0.007881707}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Google Earth Terrain
+    100004: lol
+    100006: lol 1
+    100008: 'M c K E L D I N '
+    400000: //RootNode
+    400002: Google Earth Terrain
+    400004: lol
+    400006: lol 1
+    400008: 'M c K E L D I N '
+    2300000: //RootNode
+    2300002: Google Earth Terrain
+    2300004: lol
+    2300006: lol 1
+    2300008: 'M c K E L D I N '
+    3300000: //RootNode
+    3300002: Google Earth Terrain
+    3300004: lol
+    3300006: lol 1
+    3300008: 'M c K E L D I N '
+    4300000: Mesh First+night
+    4300002: Mesh Google Earth Terrain
+    4300004: Mesh lol
+    4300006: 'Mesh M c K E L D I N '
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

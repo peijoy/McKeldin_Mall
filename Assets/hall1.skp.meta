@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: b0aea07e48292fe43858ad7fde670b71
+timeCreated: 1460404635
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000040000000500000006000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b9813f5e68f3b8f549a1667324fa9d98
+  longitude: -76.62087229377399
+  latitude: 39.33018837545243
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3.813759, y: 28.72626, z: -40.418148}
+      lookAt: {x: -21.244219, y: -23.601406, z: 42.992867}
+      up: {x: -0.148176, y: 0.8571824, z: 0.49323654}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chime3
+    100002: chime3 1
+    100004: Component#1
+    100006: Component#2
+    100008: Google Earth Terrain
+    100010: //RootNode
+    100012: Lisanne
+    100014: Macaulay Hall - Johns Hopkins University
+    400000: chime3
+    400002: chime3 1
+    400004: Component#1
+    400006: Component#2
+    400008: Google Earth Terrain
+    400010: //RootNode
+    400012: Lisanne
+    400014: Macaulay Hall - Johns Hopkins University
+    2300000: chime3
+    2300002: chime3 1
+    2300004: Component#1
+    2300006: Component#2
+    2300008: Google Earth Terrain
+    2300010: Lisanne
+    2300012: Macaulay Hall - Johns Hopkins University
+    3300000: chime3
+    3300002: chime3 1
+    3300004: Component#1
+    3300006: Component#2
+    3300008: Google Earth Terrain
+    3300010: Lisanne
+    3300012: Macaulay Hall - Johns Hopkins University
+    4300000: Mesh Lisanne
+    4300002: Mesh Macaulay Hall - Johns Hopkins University
+    4300004: Mesh Google Earth Terrain
+    4300006: Mesh chime3
+    4300008: Mesh Component#1
+    4300010: Mesh Component#2
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

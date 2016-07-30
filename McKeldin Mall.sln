@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{62F1F219-D58C-1B33-A042-88D4375CA013}") = "McKeldin Mall", "Assembly-CSharp-firstpass.csproj", "{B9BEF396-2274-DB37-4E91-468B2384E1B4}"
+EndProject
+Project("{62F1F219-D58C-1B33-A042-88D4375CA013}") = "McKeldin Mall", "Assembly-CSharp.csproj", "{5CD79622-6C72-CD12-D674-040C6A796623}"
+EndProject
+Project("{62F1F219-D58C-1B33-A042-88D4375CA013}") = "McKeldin Mall", "Assembly-CSharp-Editor.csproj", "{3957F536-78CF-A1BB-337F-832490AC32FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9BEF396-2274-DB37-4E91-468B2384E1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BEF396-2274-DB37-4E91-468B2384E1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BEF396-2274-DB37-4E91-468B2384E1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BEF396-2274-DB37-4E91-468B2384E1B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD79622-6C72-CD12-D674-040C6A796623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD79622-6C72-CD12-D674-040C6A796623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD79622-6C72-CD12-D674-040C6A796623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD79622-6C72-CD12-D674-040C6A796623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3957F536-78CF-A1BB-337F-832490AC32FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3957F536-78CF-A1BB-337F-832490AC32FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3957F536-78CF-A1BB-337F-832490AC32FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3957F536-78CF-A1BB-337F-832490AC32FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

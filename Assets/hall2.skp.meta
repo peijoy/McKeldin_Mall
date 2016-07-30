@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: a76a9caf368230d458185aa8873fb122
+timeCreated: 1460405026
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000040000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0ad10c3bf7ce5ca132d92c011e7977dd
+  longitude: -76.62251555507066
+  latitude: 39.329737297333544
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 153.66801, y: 34.34243, z: -211.56425}
+      lookAt: {x: 8.731448, y: -31.256384, z: 3.1629303}
+      up: {x: -0.13732943, y: 0.9694049, z: 0.20345703}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Club
+    100002: Club 1
+    100004: club_adj
+    100006: club_adj 1
+    100008: club_chimney
+    100010: club_chimney 1
+    100012: club_chimney 2
+    100014: club_chimney 3
+    100016: club_chimney 4
+    100018: club_chimney 5
+    100020: Component#1
+    100022: Component#1 1
+    100024: Google Earth Terrain
+    100026: //RootNode
+    100028: Hopkins Club - Johns Hopkins University
+    400000: Club
+    400002: Club 1
+    400004: club_adj
+    400006: club_adj 1
+    400008: club_chimney
+    400010: club_chimney 1
+    400012: club_chimney 2
+    400014: club_chimney 3
+    400016: club_chimney 4
+    400018: club_chimney 5
+    400020: Component#1
+    400022: Component#1 1
+    400024: Google Earth Terrain
+    400026: //RootNode
+    400028: Hopkins Club - Johns Hopkins University
+    2300000: Club
+    2300002: Club 1
+    2300004: club_adj
+    2300006: club_adj 1
+    2300008: club_chimney
+    2300010: club_chimney 1
+    2300012: club_chimney 2
+    2300014: club_chimney 3
+    2300016: club_chimney 4
+    2300018: club_chimney 5
+    2300020: Component#1
+    2300022: Component#1 1
+    2300024: Google Earth Terrain
+    2300026: Hopkins Club - Johns Hopkins University
+    3300000: Club
+    3300002: Club 1
+    3300004: club_adj
+    3300006: club_adj 1
+    3300008: club_chimney
+    3300010: club_chimney 1
+    3300012: club_chimney 2
+    3300014: club_chimney 3
+    3300016: club_chimney 4
+    3300018: club_chimney 5
+    3300020: Component#1
+    3300022: Component#1 1
+    3300024: Google Earth Terrain
+    3300026: Hopkins Club - Johns Hopkins University
+    4300000: Mesh Hopkins Club - Johns Hopkins University
+    4300002: Mesh Google Earth Terrain
+    4300004: Mesh club_adj
+    4300006: Mesh Club
+    4300008: Mesh Component#1
+    4300010: Mesh club_chimney
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
