@@ -5,7 +5,7 @@ This is a Virtual Reality tour of the McKeldin Mall of University of Maryland. I
 
 Note that .exe demo of this project can be found at https://drive.google.com/folderview?id=0B-LXXjNcVmAudkJUYkF0M3FHWHM&usp=sharing
 
---- Controls ---
+--- Controls --- /n
 M to open/close menu
 R to return to the starting point
 F to teleport to where the crosshair is aiming at
