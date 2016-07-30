@@ -1,7 +1,7 @@
 # McKeldin_Mall
 Virtual Reality Tour for McKeldin Mall of UMD
 
-This is a Virtual Reality tour of the McKeldin Mall of University of Maryland. It works with Oculus Rift but you can run the project without Oculus Rift too.
+This is a Virtual Reality tour of the McKeldin Mall of University of Maryland. It works with Oculus Rift but you can run the project without Oculus Rift too. To run the project, download all the files and save them in a folder. Use Unity3D(5.3.2f1 or up) to open the folder.
 
 --- Controls ---
 M to open/close menu
