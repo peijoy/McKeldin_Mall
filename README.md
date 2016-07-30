@@ -6,11 +6,11 @@ This is a Virtual Reality tour of the McKeldin Mall of University of Maryland. I
 Note that .exe demo of this project can be found at https://drive.google.com/folderview?id=0B-LXXjNcVmAudkJUYkF0M3FHWHM&usp=sharing
 
 --- Controls --- <br />
-M to open/close menu
-R to return to the starting point
-F to teleport to where the crosshair is aiming at
-WASD to move
-Arrow keys to adjust direction
+M to open/close menu <br />
+R to return to the starting point <br />
+F to teleport to where the crosshair is aiming at <br />
+WASD to move <br />
+Arrow keys to adjust direction <br />
 Note that you can also look around with Oculus Rift
 
 Created by Pei-Jo Yang and Yifan Yu. 2016.
